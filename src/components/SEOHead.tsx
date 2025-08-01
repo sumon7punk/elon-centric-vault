@@ -132,6 +132,17 @@ export const SEOHead = ({
       <meta name="twitter:image" content={`${canonicalUrl}/elon-musk-hero.jpg`} />
       <meta name="twitter:creator" content="@elonmusk" />
       
+      {/* Google Analytics */}
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-VJ6GPPK5V9"></script>
+      <script>
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-VJ6GPPK5V9');
+        `}
+      </script>
+      
       {/* Additional Meta Tags */}
       <meta name="author" content="Elon Musk Biography Team" />
       <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
