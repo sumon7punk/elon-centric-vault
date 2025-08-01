@@ -1,0 +1,9 @@
+# Ads.txt file for elon-graphy.lovable.app
+# This file is used to declare authorized digital sellers for programmatic advertising
+# Add your advertising partners here when you start monetizing
+
+# Example format:
+# domain.com, pub-id, DIRECT, cert-authority-id
+
+# Currently no advertising partners configured
+# Contact site owner to add authorized sellers
