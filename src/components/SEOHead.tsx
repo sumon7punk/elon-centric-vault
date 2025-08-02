@@ -147,6 +147,7 @@ export const SEOHead = ({
       <meta name="author" content="Elon Musk Biography Team" />
       <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
       <meta name="googlebot" content="index, follow" />
+      <meta name="google-site-verification" content="HxBe5_Qx3yG5yi1bynNtRFkQSsFG1JtFY_81ralbiGw" />
       
       {/* Structured Data */}
       <script type="application/ld+json">
