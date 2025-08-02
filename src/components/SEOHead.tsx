@@ -10,7 +10,7 @@ interface SEOHeadProps {
 }
 
 export const SEOHead = ({ 
-  title = "About Elon Musk",
+  title = "Elon Musk Biography, Age, Net Worth, Career, Family",
   description = "Learn about Elon Musk – biography, age, career, net worth, achievements, family, and legacy. Complete guide to the Tesla CEO and SpaceX founder.",
   keywords = "Elon Musk, biography, Tesla, SpaceX, net worth, entrepreneur, CEO, electric cars, space exploration, Neuralink, Twitter, X",
   canonicalUrl = "https://elon-musk-biography.lovable.app",
